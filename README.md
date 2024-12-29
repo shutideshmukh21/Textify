@@ -69,9 +69,8 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
--![Textify Screenshot] (https://github.com/shutideshmukh21/Textify/blob/main/textify1.png)
--![Textify Screenshot] (https://github.com/shutideshmukh21/Textify/blob/main/textify2.png)
--![Textify Screenshot] (https://github.com/shutideshmukh21/Textify/blob/main/textify3.png)
+-![Textify Screenshot] (https://github.com/shutideshmukh21/Textify/blob/main/Texity%20screenshots.zip)
+
 
 
 
