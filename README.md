@@ -69,7 +69,7 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-*Coming Soon!*
+![Textify Screenshot] (https://github.com/shutideshmukh21/Textify/blob/main/textify1.png)
 
 ---
 
